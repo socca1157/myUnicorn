@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomePage renders correctly 1`] = `ShallowWrapper {}`;
+
+exports[`LoginPage renders correctly 1`] = `ShallowWrapper {}`;
+
+exports[`SignupPage renders correctly 1`] = `ShallowWrapper {}`;
